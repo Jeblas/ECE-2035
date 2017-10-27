@@ -1,5 +1,5 @@
 # ECE-2035
-Programming for Hardware/Software Systems
+Programming for Hardware/Software Systems (C)
 ## Course Description
 This course presents execution and storage mechanisms used to support high level programming languages and operating systems. This design-oriented course describes how complex mechanisms are created using operations and storage defined in an instruction set architecture. Assembly language examples illustrate key course concepts. Lecture material is reinforced by design projects that require C programming and MIPS assembly language programming, focusing on performance and storage resource requirements on hardware platforms.
 ## Course Objectives
